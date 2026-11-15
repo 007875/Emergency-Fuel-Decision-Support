@@ -1,0 +1,2 @@
+source,geocoding,study_place,study_radius_m,network_type,route_method,route_count_per_od,capacity_note
+OpenStreetMap,Nominatim via OSMnx,"Nelson, New Zealand",18000,drive,diverse shortest simple paths by road distance,3,Illustrative model parameter; not real tanker/road capacity

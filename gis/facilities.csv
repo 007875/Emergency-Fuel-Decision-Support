@@ -1,0 +1,6 @@
+node_id,name,node_type,demand_type,demand_rate,priority,initial_inventory,latitude,longitude
+PORT_01,Port Nelson,port,none,0,0,0,-41.2611495,173.2765821
+CRIT_01,Nelson Hospital,critical,critical,500,1,2000,-41.2870747,173.2720984
+FS_01,Fuel Station 1,fuel_station,general,800,3,4000,-41.2746928,173.280549
+FS_02,Fuel Station 2,fuel_station,general,600,3,3000,-41.3424441,173.1876576
+FS_03,Fuel Station 3,fuel_station,general,500,3,2500,-41.31477,173.2326625
