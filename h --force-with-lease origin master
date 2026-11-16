@@ -1,0 +1,28 @@
+ .gitignore => MOH/.gitignore                       |   0
+ PROJECT_SUMMARY.md => MOH/PROJECT_SUMMARY.md       |   0
+ MOH/dashboard.py                                   | 171 [32m+[m[31m--------------------[m
+ MOH/dashboard/dashboard.py                         | 170 [32m++++++++++++++++++++[m
+ {data => MOH/data}/README.md                       |   0
+ {gis => MOH/gis}/README.md                         |   0
+ {gis => MOH/gis}/facilities.csv                    |   0
+ {gis => MOH/gis}/gis_metadata.csv                  |   0
+ {gis => MOH/gis}/route_segments.csv                |   0
+ {gis => MOH/gis}/routes.csv                        |   0
+ {model => MOH/model}/__init__.py                   |   0
+ {model => MOH/model}/config.py                     |   0
+ {model => MOH/model}/experiments.py                |   0
+ {model => MOH/model}/fuel_sim.py                   |   0
+ {model => MOH/model}/gis_data.py                   |   0
+ {model => MOH/model}/gis_network.py                |   0
+ {model => MOH/model}/make_figures.py               |   0
+ requirements.txt => MOH/requirements.txt           |   0
+ {results => MOH/results}/README.md                 |   0
+ {results => MOH/results}/experiment_grid.csv       |   0
+ .../results}/figures/hospital_stock_L2_48h.png     | Bin
+ {results => MOH/results}/figures/map_L2.png        | Bin
+ {results => MOH/results}/figures/pareto_L2_48h.png | Bin
+ {results => MOH/results}/pareto_front.csv          |   0
+ {results => MOH/results}/recommendations.csv       |   0
+ .../results}/recommended_package_matrix.csv        |   0
+ dashboard.py                                       |   5 [31m-[m
+ 27 files changed, 173 insertions(+), 173 deletions(-)

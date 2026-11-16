@@ -1,5 +1,7 @@
 # Emergency Diesel Decision-Support - GIS-driven prototype (v4)
 
+![Emergency Fuel Decision-Support Framework](MOH/docs/architecture.png)
+
 Proof of concept for the PhD "Decision support for emergency fuel supply in New Zealand".
 It shows the *structure* of the proposed tool using public OpenStreetMap data and **illustrative** parameters.
 
